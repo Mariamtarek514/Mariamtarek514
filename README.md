@@ -2,11 +2,7 @@
 ![bannerr](https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 <h1 align="center">Hi 👋, I'm Mariam Tarek</h1>
 <h3 align="center">Frontend developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamtarek514&label=Profile%20views&color=0e75b6&style=flat" alt="mariamtarek514" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/mariam-elsarag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-elsarag" height="30" width="40" /></a>
 </p>
 
