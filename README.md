@@ -12,10 +12,6 @@
 			<tbody>
 				<tr>
 					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="[https://cdn.svgporn.com/logos/html-5.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)">
-					</td>
-					<td align="center">
 						<span><strong>HTML</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
 					</td>
