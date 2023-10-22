@@ -45,18 +45,17 @@
 	</center>
 
 <br/>
-### ⚙️ &nbsp; GitHub Analytics
-<p align="center">
+
+<p >
+## ⚙️GitHub Analytics:
+<br/>
 <a href="https://github.com/mariamtarek514">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariamtarek514&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariamtarek514&layout=compact&exclude_lang=java+r&theme=radical" />
 </a>
 </p>
 <div align="center">
-
-
 <br/>
-
 ------
 </div> 
 
