@@ -44,7 +44,7 @@
 		</table>
 	</center>
 
-<p align="start">
+<p>
   <a href="https://github.com/sehamanter1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamtarek514&theme=radical#version3"/>
   </a>
