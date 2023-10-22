@@ -45,7 +45,9 @@
 	</center>
 
 <br/>
-### ⚙️ &nbsp; GitHub Analytics
+
+## ⚙️GitHub Analytics:
+
 <br/>
 <p >
 <br/>
