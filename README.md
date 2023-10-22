@@ -44,6 +44,12 @@
 		</table>
 	</center>
 
+<p align="center">
+  <a href="https://github.com/sehamanter1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamtarek514&theme=radical#version3"/>
+  </a>
+</p>
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamtarek514&theme=solarized-dark)
 
 
