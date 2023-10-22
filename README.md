@@ -51,7 +51,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariamtarek514&layout=compact&exclude_lang=java+r&theme=radical" />
 </a>
 </p>
-
+<br/>
 <p>
   <a href="https://github.com/sehamanter1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamtarek514&theme=radical#version3"/>
