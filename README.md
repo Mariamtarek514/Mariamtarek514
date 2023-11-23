@@ -39,7 +39,6 @@
 						<span><strong>TypeScript</strong></span><br/>
 						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
 					</td>
-				
 				</tr>
 			</tbody>
 		</table>
