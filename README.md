@@ -39,6 +39,10 @@
 						<span><strong>TypeScript</strong></span><br/>
 						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
 					</td>
+						<td align="center">
+						<span><strong>TypeScript</strong></span><br/>
+						<img height="64px" width="64px" src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,sass,cpp,python,react,figma,git,github,mysql,tailwind,ts,vscode&perline=14" />
+					</td>
 				</tr>
 			</tbody>
 		</table>
