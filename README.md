@@ -39,10 +39,7 @@
 						<span><strong>TypeScript</strong></span><br/>
 						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
 					</td>
-						<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftailwindcss%2F&psig=AOvVaw3JFdOkwiHrpt4-jsM7dLtY&ust=1700834288203000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICxyM6j2oIDFQAAAAAdAAAAABAE" />
-					</td>
+				
 				</tr>
 			</tbody>
 		</table>
