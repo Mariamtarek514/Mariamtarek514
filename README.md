@@ -41,7 +41,7 @@
 					</td>
 						<td align="center">
 						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://skillicons.dev/icons?i=git,html,css,js,bootstrap,sass,cpp,python,react,figma,git,github,mysql,tailwind,ts,vscode&perline=14" />
+						<img height="64px" width="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftailwindcss%2F&psig=AOvVaw3JFdOkwiHrpt4-jsM7dLtY&ust=1700834288203000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCICxyM6j2oIDFQAAAAAdAAAAABAE" />
 					</td>
 				</tr>
 			</tbody>
