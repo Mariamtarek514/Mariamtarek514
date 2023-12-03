@@ -40,7 +40,7 @@
 						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
 					</td>
 					<td align="center">
-						<span><strong>Tailwind</strong></span>
+						<span><strong>Tailwind</strong></span><br/>
 						<img  width="64px" height="64px" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" />
 					</td>
 				</tr>
