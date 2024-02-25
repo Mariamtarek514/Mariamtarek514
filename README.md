@@ -55,8 +55,8 @@
 <p >
 <br/>
 <a href="https://github.com/Mariamtarek514">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariamtarek514&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariamtarek514&theme=dark&layout=compact&langs_count=10&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariamtarek514&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariamtarek514&theme=dark&layout=compact&langs_count=10&hide_border=false"/>
 </a>
 
 </p>
@@ -64,6 +64,6 @@
 
 <p align="center">
   <a href="https://github.com/Mariamtarek514/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamtarek514&theme=dark&layout=compact&langs_count=10&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamtarek514&theme=dark&layout=compact&langs_count=10&hide_border=false"/>
   </a>
 </p>
