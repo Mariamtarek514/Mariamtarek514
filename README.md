@@ -60,10 +60,5 @@
 </a>
 
 </p>
-<br/>
 
-<p align="center">
-  <a href="https://github.com/Mariamtarek514/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariamtarek514&theme=dark&layout=compact&langs_count=10&hide_border=false"/>
-  </a>
-</p>
+
