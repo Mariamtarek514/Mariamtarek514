@@ -55,9 +55,10 @@
 <p >
 <br/>
 <a href="https://github.com/Mariamtarek514">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariamtarek514&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mariamtarek514&layout=compact&exclude_lang=java+r&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariamtarek514&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariamtarek514&theme=dark&layout=compact&langs_count=10&hide_border=true"/>
 </a>
+
 </p>
 <br/>
 
